@@ -4,7 +4,7 @@ A Microsoft 365 Digital Worker sample that demonstrates Manager-owned Teams meet
 
 ## Demo
 
-[Watch the Meeting Assistant demo](https://microsoft-my.sharepoint-df.com/:v:/p/huajiezhang/cQr5yWhl2nJFTKU_0GY4HJriEgUCYWySp-uphL1ENbJCLrlf8A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0)
+[Watch the Meeting Assistant demo](https://microsoft.sharepoint.com/:v:/r/teams/AzureDeveloperCLIazdPartners/_layouts/15/stream.aspx?id=%2Fteams%2FAzureDeveloperCLIazdPartners%2FShared%20Documents%2F%F0%9F%92%AC%20General%2Fautopilot%2Ddemos%2Fautopilot%2Dmeeting%2Dagent%2Ddemo%2D0916%2Dshortened%2Emp4&share=cQptxMLkk6UMSKFAxiJ%2D6rFqEgUCeClJi4MFlAZuCMBZ18rY0A)
 
 ## Scope
 

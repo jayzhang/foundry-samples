@@ -4,7 +4,7 @@ A Microsoft 365 Digital Worker sample that demonstrates an email-focused hosted 
 
 ## Demo
 
-[Watch the Email Assistant demo](https://microsoft-my.sharepoint-df.com/:v:/p/huajiezhang/cQqNOJdg6uQfRpLRGmsJVy_7EgUC5oFMA06Iu_dWnUg_cLxPiQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0)
+[Watch the Email Assistant demo](https://microsoft.sharepoint.com/:v:/r/teams/AzureDeveloperCLIazdPartners/_layouts/15/stream.aspx?id=%2Fteams%2FAzureDeveloperCLIazdPartners%2FShared%20Documents%2F%F0%9F%92%AC%20General%2Fautopilot%2Ddemos%2Fautopilot%2Demail%2Dagent%2D0915%2Dshortened%2Emp4&share=cQpJRzICYWNMQJLQ5wkwUE8hEgUCQ4LbLh2vXqnyM1SPagO09g)
 
 ## Scope
 
