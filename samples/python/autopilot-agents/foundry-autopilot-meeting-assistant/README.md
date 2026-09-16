@@ -2,6 +2,10 @@
 
 A Microsoft 365 Digital Worker sample that demonstrates Manager-owned Teams meeting chat delegation with Activity Protocol context, Teams/Calendar MCP boundaries, and Blob-backed meeting delegate state.
 
+## Demo
+
+[Watch the Meeting Assistant demo](https://microsoft-my.sharepoint-df.com/:v:/p/huajiezhang/cQr5yWhl2nJFTKU_0GY4HJriEgUCYWySp-uphL1ENbJCLrlf8A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0)
+
 ## Scope
 
 This MVP supports:

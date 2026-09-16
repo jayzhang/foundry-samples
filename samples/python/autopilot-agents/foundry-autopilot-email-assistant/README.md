@@ -2,6 +2,10 @@
 
 A Microsoft 365 Digital Worker sample that demonstrates an email-focused hosted agent with Mail MCP, delegated mailbox reads, Manager-authorized forwarded-email monitoring, and proactive Teams notifications.
 
+## Demo
+
+[Watch the Email Assistant demo](https://microsoft-my.sharepoint-df.com/:v:/p/huajiezhang/cQqNOJdg6uQfRpLRGmsJVy_7EgUC5oFMA06Iu_dWnUg_cLxPiQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0)
+
 ## Scope
 
 This sample supports:
